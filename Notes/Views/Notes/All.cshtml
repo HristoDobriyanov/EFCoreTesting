@@ -1,0 +1,6 @@
+﻿@model IEnumerable<Note>
+
+@foreach (var note in Model)
+{
+    <div>@note.Content is created by @note.Author</div>
+}

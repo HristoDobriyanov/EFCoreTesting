@@ -21,3 +21,11 @@ C:\Users\HRI\source\repos\EFCoreTesting\Notes\obj\Debug\netcoreapp2.2\Razor\View
 C:\Users\HRI\source\repos\EFCoreTesting\Notes\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
 C:\Users\HRI\source\repos\EFCoreTesting\Notes\obj\Debug\netcoreapp2.2\Notes.RazorTargetAssemblyInfo.cache
 C:\Users\HRI\source\repos\EFCoreTesting\Notes\obj\Debug\netcoreapp2.2\Notes.RazorTargetAssemblyInfo.cs
+C:\Users\HRI\source\repos\EFCoreTesting\Notes\bin\Debug\netcoreapp2.2\Notes.pdb
+C:\Users\HRI\source\repos\EFCoreTesting\Notes\bin\Debug\netcoreapp2.2\Notes.Views.dll
+C:\Users\HRI\source\repos\EFCoreTesting\Notes\bin\Debug\netcoreapp2.2\Notes.Views.pdb
+C:\Users\HRI\source\repos\EFCoreTesting\Notes\obj\Debug\netcoreapp2.2\Notes.Views.pdb
+C:\Users\HRI\source\repos\EFCoreTesting\Notes\obj\Debug\netcoreapp2.2\Notes.dll
+C:\Users\HRI\source\repos\EFCoreTesting\Notes\obj\Debug\netcoreapp2.2\Notes.pdb
+C:\Users\HRI\source\repos\EFCoreTesting\Notes\obj\Debug\netcoreapp2.2\Notes.csproj.CopyComplete
+C:\Users\HRI\source\repos\EFCoreTesting\Notes\obj\Debug\netcoreapp2.2\Razor\Views\Notes\All.g.cshtml.cs

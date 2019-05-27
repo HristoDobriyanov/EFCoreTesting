@@ -27,3 +27,4 @@ C:\Users\HRI\source\repos\EFCoreTesting\PagesTesting\obj\Debug\netcoreapp2.2\Pag
 C:\Users\HRI\source\repos\EFCoreTesting\PagesTesting\obj\Debug\netcoreapp2.2\PagesTesting.dll
 C:\Users\HRI\source\repos\EFCoreTesting\PagesTesting\obj\Debug\netcoreapp2.2\PagesTesting.pdb
 C:\Users\HRI\source\repos\EFCoreTesting\PagesTesting\obj\Debug\netcoreapp2.2\PagesTesting.csproj.CopyComplete
+C:\Users\HRI\source\repos\EFCoreTesting\PagesTesting\obj\Debug\netcoreapp2.2\PagesTesting.csprojAssemblyReference.cache
