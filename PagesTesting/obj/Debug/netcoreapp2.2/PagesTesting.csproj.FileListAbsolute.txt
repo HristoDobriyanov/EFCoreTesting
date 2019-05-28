@@ -29,3 +29,4 @@ C:\Users\HRI\source\repos\EFCoreTesting\PagesTesting\obj\Debug\netcoreapp2.2\Pag
 C:\Users\HRI\source\repos\EFCoreTesting\PagesTesting\obj\Debug\netcoreapp2.2\PagesTesting.csproj.CopyComplete
 C:\Users\HRI\source\repos\EFCoreTesting\PagesTesting\obj\Debug\netcoreapp2.2\PagesTesting.csprojAssemblyReference.cache
 C:\Users\HRI\source\repos\EFCoreTesting\PagesTesting\obj\Debug\netcoreapp2.2\Razor\Pages\Cats.g.cshtml.cs
+C:\Users\HRI\source\repos\EFCoreTesting\PagesTesting\bin\Debug\netcoreapp2.2\wwwroot\images\cat.jpg
