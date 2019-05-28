@@ -29,3 +29,5 @@ C:\Users\HRI\source\repos\EFCoreTesting\Notes\obj\Debug\netcoreapp2.2\Notes.dll
 C:\Users\HRI\source\repos\EFCoreTesting\Notes\obj\Debug\netcoreapp2.2\Notes.pdb
 C:\Users\HRI\source\repos\EFCoreTesting\Notes\obj\Debug\netcoreapp2.2\Notes.csproj.CopyComplete
 C:\Users\HRI\source\repos\EFCoreTesting\Notes\obj\Debug\netcoreapp2.2\Razor\Views\Notes\All.g.cshtml.cs
+C:\Users\HRI\source\repos\EFCoreTesting\Notes\bin\Debug\netcoreapp2.2\wwwroot\images\pic.jpg
+C:\Users\HRI\source\repos\EFCoreTesting\Notes\obj\Debug\netcoreapp2.2\Razor\Views\Notes\New.g.cshtml.cs
